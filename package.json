@@ -1,0 +1,24 @@
+{
+  "name": "xisper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./build/start.js",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.10",
+    "discord-canvas-easy": "^3.0.1",
+    "discord-canvascard": "^1.5.2",
+    "discord.js": "^13.7.0",
+    "moment-timezone": "^0.5.34",
+    "readline-sync": "^1.4.10",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.6.4"
+  }
+}
