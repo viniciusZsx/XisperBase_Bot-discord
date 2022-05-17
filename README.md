@@ -81,7 +81,7 @@ local: /src/xisper.ts
 👤 **XisperZero**
 
 - Meu Github: [@ZisperZero](https://github.com/viniciusZsx)
-- Meu WhatsApp: [XisperZero](wa.me/558181896518)
+- Meu WhatsApp: [XisperZero](https://wa.me/558181896518)
 
 <br/>
 
